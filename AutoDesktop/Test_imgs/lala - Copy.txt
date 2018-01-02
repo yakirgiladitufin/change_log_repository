@@ -1,0 +1,13 @@
+0:sleep(1)
+0:sleep(1)
+0:sleep(1)
+0:if(C_driver_exists)
+1:move_mouse(1,1,0)
+1:move_mouse(1,1,0)
+1:move_mouse(1,1,0)
+0:else(C_driver_exists)
+1:sleep(2)
+1:sleep(1)
+1:sleep(1)
+0:sleep(1)
+
